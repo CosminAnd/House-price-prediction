@@ -1,4 +1,4 @@
-R Project - House Price Prediction
+R Project - House Price Prediction \b
 This application is written in R and aims to predict house prices on the "House Sales in King County, USA" dataset from Kaggle. The methods used are Random Forest and XGBoost:
 - XGBoost with 85.6% accuracy;
 - Random Forest with 81.5% accuracy.
